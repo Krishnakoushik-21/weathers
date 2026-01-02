@@ -17,6 +17,6 @@ for any city using a weather API.
 ##How to run the project 
 Download the project 
 Name the file with "Filename.html"
-Run with Live Server or Double click
+Run with Live Server or Double click on html file
 ##AUTHOR
 Created by Krishna Koushik
